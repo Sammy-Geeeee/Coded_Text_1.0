@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c9a25c19-cf76-4d70-8b01-348e26e33196" name="Default Changelist" comment="Adding the venv folder">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+    <list default="true" id="c9a25c19-cf76-4d70-8b01-348e26e33196" name="Default Changelist" comment="removing .gitignore">
+      <change beforePath="$PROJECT_DIR$/.idea/Coded_Text_1.0.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Coded_Text_1.0.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,7 +32,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
   </component>
   <component name="RunManager" selected="Python.main">
     <configuration name="encoding_text" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -143,7 +143,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615863996251</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="removing .gitignore">
+      <created>1615883501420</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1615883501420</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -160,6 +167,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Adding the venv folder" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding the venv folder" />
+    <MESSAGE value="removing .gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="removing .gitignore" />
   </component>
 </project>
